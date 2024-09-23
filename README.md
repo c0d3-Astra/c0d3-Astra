@@ -1,4 +1,3 @@
-[![MasterHead](https://tenor.com/view/coding-hack-hacker-anon-anonymous-gif-14781168)]
 <h1 align="center">Hi 👋, I'm Govind Kumar</h1>
 <h3 align="center">A passionate Cybersecurity Enthusiast | CTF Competitor | Competitive Programmer from India</h3>
 <img align="right" alt="Coding" width="100" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
