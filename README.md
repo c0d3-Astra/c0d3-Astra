@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0d3-astra" alt="c0d3-astra" /></a> </p>
 
+- 2nd year student@IIIT Delhi
+
 - 💬 Ask me about **Cyber Security | Competitive Coding**
 
 - 📫 How to reach me **govind23224@iiitd.ac.in**
