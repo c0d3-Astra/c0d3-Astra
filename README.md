@@ -12,7 +12,6 @@
 
 - 📫 How to reach me **govind23224@iiitd.ac.in**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
