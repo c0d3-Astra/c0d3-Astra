@@ -2,8 +2,9 @@
 <p align="center">
   🧠 CSSS @ IIIT Delhi | 🔐 CTF Enthusiast | 🧰 Systems Hacker | 🤖 AI & Game Dev  
 </p>
-
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/c0d3-Astra/count.svg" />
+</p>
 
 
 ---
