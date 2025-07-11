@@ -3,11 +3,6 @@
   🧠 CSSS @ IIIT Delhi | 🔐 CTF Enthusiast | 🧰 Systems Hacker | 🤖 AI & Game Dev  
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=c0d3-Astra&left_color=gray&right_color=blue" alt="Profile Views">
-</p>
-
-
 
 ---
 
