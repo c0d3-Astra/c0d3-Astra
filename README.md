@@ -37,37 +37,38 @@ I’m especially drawn to problems at the crossroads of **code and consciousness
 ### 🛠️ Skills & Tools
 
 #### 💻 Languages & Frameworks  
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java)  
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java) 
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 #### 🧰 Tools & Technologies  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
-![GDB](https://img.shields.io/badge/GDB-FF0000?style=flat-square)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)  
-![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim)  
-![Fish Shell](https://img.shields.io/badge/Fish%20Shell-4F5D95?style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![GDB](https://img.shields.io/badge/GDB-FF0000?style=for-the-badge) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) 
+![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim) 
+![Fish Shell](https://img.shields.io/badge/Fish%20Shell-4F5D95?style=for-the-badge)
 
 #### 🎮 Game Dev & UI  
-![LibGDX](https://img.shields.io/badge/LibGDX-E82117?style=flat-square)  
-![Tiled](https://img.shields.io/badge/Tiled-51AFC2?style=flat-square)  
-![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square)
+![LibGDX](https://img.shields.io/badge/LibGDX-E82117?style=for-the-badge) 
+![Tiled](https://img.shields.io/badge/Tiled-51AFC2?style=for-the-badge) 
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp)
 
 #### 🤖 AI & ML  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)  
-![HuggingFace](https://img.shields.io/badge/HuggingFace-fcc72e?style=flat-square&logo=huggingface)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch) 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-fcc72e?style=for-the-badge&logo=huggingface) 
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv) 
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 
 #### 🔐 Security & CTFs  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=flat-square&logo=burpsuite)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark)  
-![CyberChef](https://img.shields.io/badge/CyberChef-333333?style=flat-square)  
-![pwntools](https://img.shields.io/badge/pwntools-red?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=burpsuite) 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark) 
+![CyberChef](https://img.shields.io/badge/CyberChef-333333?style=for-the-badge) 
+![pwntools](https://img.shields.io/badge/pwntools-red?style=for-the-badge)
+
 
 ---
 
