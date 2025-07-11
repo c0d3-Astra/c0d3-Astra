@@ -74,12 +74,12 @@ I’m especially drawn to problems at the crossroads of **code and consciousness
 
 ### 🏆 Achievements
 
+- 🏅 **CSAW India Qualifiers 2024 – Finalist (Team of 4)**  
+  Qualified in the international CTF event by NYU; ranked among top teams in Asia. Specialized in binary exploitation and malware analysis.
 - 🥇 **DEF CON Delhi Group 0x06 – 1st Place (Solo)**  
   Cracked reversing and crypto challenges at India’s top hacker meet-up  
 - 🥈 **HackOn CTF 2023–24 – 2nd Place (Solo)**  
   Finished 2nd in a competitive 24-hour CTF at IIIT-Delhi  
-- 🏅 **CSAW India Qualifiers 2024 – Finalist (Team of 4)**  
-  Qualified in the international CTF event by NYU; ranked among top teams in Asia. Specialized in binary exploitation and malware analysis.
 
 
 ---
