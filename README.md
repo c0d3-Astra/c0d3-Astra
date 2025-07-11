@@ -24,7 +24,6 @@ I’m especially drawn to problems at the crossroads of **code and consciousness
 
 | 🧩 Project | 💡 Description | ⚙️ Stack |
 |-----------|----------------|----------|
-| 🧠 **Cipher Madness** | Custom crypto challenge for CTF (bitwise + base64 encoding) | Python |
 | 🎮 **Angry Birds Clone** | Physics-based game using LibGDX, Java | Java, LibGDX |
 | 🔧 **RISC-V Simulator** | Python-based assembler + instruction emulator | Python |
 | 🧠 **Neurodiverse EdTech AI** | Adaptive learning system for neurodiverse students | Python, ML, UX |
