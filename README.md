@@ -30,7 +30,7 @@ I’m especially drawn to problems at the crossroads of **code and consciousness
 | 🧠 **Neurodiverse EdTech AI** | Adaptive learning system for neurodiverse students | Python, ML, UX |
 | 🤖 **Pokemmo Bot** *(in progress)* | Game bot using OpenCV + LLMs for smart move decisions | PyAutoGUI, OpenCV, LLMs |
 
-> 🧠 See more in [my repositories](https://github.com/YOUR_USERNAME?tab=repositories)
+> 🧠 See more in [my repositories](https://github.com/c0d3-Astra?tab=repositories)
 
 ---
 
