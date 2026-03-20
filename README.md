@@ -87,7 +87,7 @@ I’m especially drawn to problems at the crossroads of **code and consciousness
 
 - ✉️ govind23224@iiitd.ac.in  
 - 🧑‍💻 [GitHub](https://github.com/c0d3-Astra)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/govindkum23224)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/govind7908)  
 
 ---
 
