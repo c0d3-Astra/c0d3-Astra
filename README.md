@@ -105,7 +105,6 @@ Security isn't a layer I add — it's the foundation I build from.
 ### 📫 Let's Connect
 
 - ✉️ govind23224@iiitd.ac.in
-- 🧑‍💻 [GitHub](https://github.com/c0d3-Astra)
 - 💼 [LinkedIn](https://www.linkedin.com/in/govind7908)
 
 ---
