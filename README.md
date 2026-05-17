@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋 I'm Govind Kumar</h1>
 <p align="center">
-  🧠 CSSS @ IIIT Delhi | 🔐 CTF Enthusiast | 🧰 Systems Hacker | 🤖 AI & Game Dev  
+  🧠 CSSS @ IIIT Delhi | 🔐 CTF Enthusiast | 🤖 AI & Game Dev  
 </p>
 
 ---
